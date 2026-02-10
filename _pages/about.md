@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Axel Carayon, i'm a temporary teaching and research assistant at the University of Toulouse, at the [ICS team](https://www.irit.fr/recherches/ICS/index.html) from the University of Toulouse, France.
+Hello, my name is Axel Carayon, i'm a temporary teaching and research assistant at the [ICS team](https://www.irit.fr/recherches/ICS/index.html) from the University of Toulouse, France.
 
 I've defended my PhD **Model-based systematic approach for the engineering of interactive systems: Application to post-stroke rehabilitation** at the [University of Toulouse](https://www.univ-tlse3.fr/) in 2025. My work proposed novel approaches to support the engineering of interactive applications, with a specific focus on post-stroke rehabilitation.
 
@@ -32,4 +32,4 @@ Best paper award at the Engineering Interactive Computing Systems (EICS) 2022 co
 
 # Publications
 You can find my full list of publications in the [Publications page](/publications/).
-Alternatively, you chan check my publications in [Google Scholar](https://scholar.google.com/citations?user=YXlmLW0AAAAJ) or [DBLP](https://dblp.org/pid/354/3037.html).
+Alternatively, you can check my publications in [Google Scholar](https://scholar.google.com/citations?user=YXlmLW0AAAAJ) or [DBLP](https://dblp.org/pid/354/3037.html).
