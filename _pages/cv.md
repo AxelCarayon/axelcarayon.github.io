@@ -9,4 +9,4 @@ redirect_from:
 
 ## Academic resume (English version) (to be published ...)
 
-## [Academic resume (French version)](/resume/academicResume_FR.pdf) (last updated : 11-02-2026)
+## [Academic resume (French version)]({{ site.baseurl }}/resume/academicResume_FR.pdf) (last updated : 11-02-2026)
