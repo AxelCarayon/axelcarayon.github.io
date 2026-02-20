@@ -17,6 +17,7 @@ My research interests lie at the intersection of Human-Computer Interaction and 
 
 My main research interests are (but not limited to) :
 - Software engineering methods and processes
+- Software architecture and it's application to interactive systems
 - Model-based engineering and it's application to interactive systems
 - Input devices and interaction techniques
 - User interface programming
