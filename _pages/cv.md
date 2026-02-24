@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-## [Academic resume (French version)]({{ site.baseurl }}/resume/academicResume_FR.pdf) (last updated : 20-02-2026)
+## [Academic resume (French version)]({{ site.baseurl }}/resume/academicResume_FR.pdf) (last updated : 24-02-2026)
