@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Axel Carayon, PhD"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Assistant Professor"
   location         : "Valenciennes, France"
   employer         : "LAMIH, Université Polytechnique des Hauts de France"
