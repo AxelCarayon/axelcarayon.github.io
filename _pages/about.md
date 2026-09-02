@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Axel Carayon, i'm a temporary teaching and research assistant at the [ICS team](https://www.irit.fr/recherches/ICS/index.html) from the University of Toulouse, France.
+Hello, my name is Axel Carayon, i'm an associate professor in Computer Science at the [LAMIH](https://www.uphf.fr/lamih/departements/informatique) in the intera reseach group from the Université Polytechnique des Hauts de France, France.
 
 I've defended my PhD **Model-based systematic approach for the engineering of interactive systems: Application to post-stroke rehabilitation** at the [University of Toulouse](https://www.univ-tlse3.fr/) in 2025. My work proposed novel approaches to support the engineering of interactive applications, with a specific focus on post-stroke rehabilitation.
 

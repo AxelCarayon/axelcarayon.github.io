@@ -5,10 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-From 2022 to 2025, I taught at the University of Toulouse as a teaching assistant alongside my PhD in the Computer Science department.
-Since September 2025, I have been a Temporary Teaching and Research Assistant at the University of Toulouse.
-
-Over the years, I have taught the following topics:
+From 2022 to 2026, I taught at the University of Toulouse, first as a teaching assistant alongside my PhD in the Computer Science department then as a Temporary Teaching and Research Assistant at the University of Toulouse the following topics :
 - Software Development of Interactive Systems
 - Object-Oriented Programming
 - Event-Based Programming
@@ -17,6 +14,12 @@ Over the years, I have taught the following topics:
 - User-Centered Design for Interactive Systems
 - Low/High level Prototyping
 - Task Modeling
+
+With my recent nomination as an Assitant Professor at the Université Polytechnique des Hauts de France, I will now teach in the [BUT informatique](https://formations.uphf.fr/fr/formations/bachelor-universitaire-de-technologie-but/but-informatique-L06G2DBP.html) on the [Maubeuge Campus](https://www.uphf.fr/maubeuge) the following topics :
+- Operating Systems
+- System Programming
+- Network
+- Cybersecurity
 
 ## Overview of different teachings done
 

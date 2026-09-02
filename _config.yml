@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Axel Carayon"
 title_separator          : "-"
 name                     : &name "Axel Carayon"
-description              : &description "Temporary teaching and research assistant"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Assistant Professor"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://axelcarayon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Axel Carayon, PhD"
-  pronouns         : # example: "she/her"  
-  bio              : "Temporary teaching and research assistant"
-  location         : "Toulouse, France"
-  employer         : "IRIT, Université de Toulouse"
+  pronouns         : "he/him"  
+  bio              : "Assistant Professor"
+  location         : "Valenciennes, France"
+  employer         : "LAMIH, Université Polytechnique des Hauts de France"
   uri              : # URL
-  email            : "axel.carayon@irit.fr" 
+  email            : "axel.carayon@uphf.fr" 
 
   # Academic websites
   academia         : # URL

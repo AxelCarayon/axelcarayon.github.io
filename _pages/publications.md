@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Book Chapter
+
+- \[**HANDBOOK OF HCI 2026**\] Fayollas, C., Carayon, A., Monsoro, N., Martinie, C., Palanque, P., Barboni, E. (2026). [Practical Guide to Task Analysis and Modeling for Design, Engineering, and Assessment of Interactive Systems: Application to HAMSTERS|XL.](https://doi.org/10.1007/978-3-319-27648-9_107-1) In: Vanderdonckt, J., Palanque, P., Winckler, M. (eds) Handbook of Human Computer Interaction. Springer, Cham. 
+
 ## International peer-reviewed journals
 
 - \[**ACTA ASTRONAUTICA 2026**\] Carayon A., Fayollas C., Hubin-Andrieu C., Tortel E., Martinie C.,
